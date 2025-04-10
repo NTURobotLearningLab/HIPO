@@ -1,0 +1,16 @@
+colorlog==6.8.2
+numpy==2.0.2
+pandas==2.2.3
+wandb==0.18.5
+ply==3.11
+imageio==2.36.0
+tqdm==4.66.6
+progressbar==2.5
+h5py==3.12.1
+scipy==1.13.1
+opencv-python==4.10.0.84
+tensorboardX==2.6.2.2
+gym==0.25.2
+matplotlib==3.9.2
+joblib==1.4.2
+pygifsicle==1.1.0
