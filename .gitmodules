@@ -1,0 +1,6 @@
+[submodule "leaps"]
+	path = leaps
+	url = git@github.com:clvrai/leaps.git
+[submodule "HPRL"]
+	path = HPRL
+	url = git@github.com:NTURobotLearningLab/HPRL.git
